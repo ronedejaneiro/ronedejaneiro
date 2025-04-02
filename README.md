@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Rone 
-- 👀 I’m interested in games
-- 🌱 I’m currently learning godot, C/C++ and Js
-- 💞️ I’m looking to collaborate on projects
-- ⚡ Fun fact: uou
+Estudante de Ciencias da Computação no CEFET\RJ
 
 <!---
 ronedejaneiro/ronedejaneiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
