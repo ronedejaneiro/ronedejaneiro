@@ -42,9 +42,6 @@ Sou estudante de Ciência da Computação (5º período, CEFET/RJ) com CR 7,98/1
 ## 🎓 Formação
 
 **CEFET/RJ** — Bacharelado em Ciência da Computação (2023 – 2027)  
-CR: 7,98/10 · 5º semestre · 1980h cursadas
-
-Destaques: Fundamentos de Redes (10,0) · POO (9,6) · Sistemas Concorrentes (8,9) · Sistemas Operacionais (8,8)
 
 ---
 
