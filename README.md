@@ -1,55 +1,115 @@
-# 👋 Olá, eu sou Rone Dias
+# 👨🏻‍💻 Rone Rosa Dias
+**`Estudante de Ciência da Computação (CEFET/RJ)`**
 
-Estudante de Ciência da Computação no CEFET/RJ • Rio de Janeiro, RJ
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Me chamo Rone Rosa Dias, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação no CEFET/RJ. Sou apaixonado por tecnologia desde cedo e complementei minha formação com a trilha de Cibersegurança na plataforma TryHackMe. Meus maiores interesses atualmente são: Desenvolvimento em Java, Banco de Dados e Segurança da Informação.
 
 ---
 
-## Sobre mim
+### 🤖 Linguagens e Tecnologias
 
-Sou estudante de Ciência da Computação (5º período, CEFET/RJ) com CR 7,98/10, focado em desenvolvimento back-end, banco de dados e segurança da informação. Já trabalhei com orientação a objetos em Java, modelagem relacional em PostgreSQL e administração de sistemas Linux. Também concluí a trilha **Pre Security** na plataforma TryHackMe. Busco minha primeira oportunidade de estágio para aplicar esses conhecimentos em ambiente profissional.
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Kali Linux" 
+    title="Kali Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
+/>
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Godot" 
+    title="Godot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 🚀 Projetos em destaque
+### 📊 Estatísticas
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Java POO](https://github.com/ronedejaneiro/Java-POO) | Sistema de gerenciamento com herança, polimorfismo e interfaces | Java |
-| [SQL](https://github.com/ronedejaneiro/SQL) | Banco de dados relacional de fornecedores e peças | PostgreSQL, SQL |
-
----
-
-## 🛠️ Habilidades técnicas
-
-**Linguagens:** C/C++ (Intermediário) · Java (Intermediário) · Python (Básico)
-
-**Banco de dados:** SQL · PostgreSQL · Modelagem de Dados · MER · Diagrama de Classes
-
-**Segurança & Redes:** TCP/IP · DNS · HTTP · VPN · TryHackMe (Pre Security)
-
-**Ferramentas:** Git · GitHub · Linux (Ubuntu/Kali) · VS Code · Godot Engine · LÖVE2D
-
----
-
-## 🎓 Formação
-
-**CEFET/RJ** — Bacharelado em Ciência da Computação (2023 – 2027)  
-
----
-
-## 📬 Contato
-
-📧 zronedias@gmail.com  
-💼 [linkedin.com/in/rone-dias](https://linkedin.com/in/rone-dias)  
-🐙 [github.com/ronedejaneiro](https://github.com/ronedejaneiro)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ronedejaneiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronedejaneiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&locale=pt-br"
+  />
+</p>
 
 <!---
 ronedejaneiro/ronedejaneiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
